@@ -1,5 +1,7 @@
-pandas
-numpy
-scikit-learn
 flask
 ipykernel
+scikit-learn
+numpy
+pandas
+seaborn
+xgboost
